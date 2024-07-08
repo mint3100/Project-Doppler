@@ -18,6 +18,10 @@ doppler_arduino.ino의 'frequency' 변수의 값입니다.\
 doppler_arduino.ino의 'speedOfSound' 변수의 값입니다.\
 343 m/s로 설정되어있습니다.
 
+### 의존성 라이브러리
+* doppler_serial.py
+&rightarrow; pyserial, matplotlib
+
 
 ## 사용된 장비
 * HC-SR04
