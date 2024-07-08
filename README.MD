@@ -9,11 +9,12 @@
 * doppler_serial.py -> 시리얼 포트 주소
 * doppler_arduino.ino -> 초음파 센서 에코 핀, 트리거 핀
 
-## 초음파 센서 출력 주파수
+## 코드 추가 설명
+### 초음파 센서 출력 주파수
 doppler_arduino.ino의 'frequency' 변수의 값입니다.\
 40khz로 출력합니다.
 
-## 공기중의 음속
+### 공기중의 음속
 doppler_arduino.ino의 'speedOfSound' 변수의 값입니다.\
 343 m/s로 설정되어있습니다.
 
