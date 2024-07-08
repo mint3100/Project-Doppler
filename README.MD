@@ -29,5 +29,8 @@ doppler_arduino.ino의 'speedOfSound' 변수의 값입니다.\
 ```
 로 출력합니다.
 
+그래프 예제는 다음과 같습니다.
+![ex_screenshot](./img/example.png)
+
 ---------------
 본 코드는 GNU AGPL 3.0 라이선스를 따릅니다.
