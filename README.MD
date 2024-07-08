@@ -6,7 +6,7 @@
 
 본 코드에 하드웨어와 직접적으로 연관되어있으나, 하드코딩 된 값은 다음과 같습니다.
 
-* doppler_serial.py -> 시리얼 포트 주소 \
+* doppler_serial.py -> 시리얼 포트 주소
 * doppler_arduino.ino -> 초음파 센서 에코 핀, 트리거 핀
 
 ## 초음파 센서 출력 주파수
